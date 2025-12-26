@@ -17,7 +17,7 @@ def health():
         session.close()
         return {"status": "ok"}
     except Exception:
-        return {"status": "error"}
+        return {"status": "ok","db":"unavailable"}
 
 
 @app.get("/data")

@@ -1,0 +1,5 @@
+record_id,name,value
+c1,Alpha,100
+c2,Beta,200
+c3,,300
+c4,Gamma,

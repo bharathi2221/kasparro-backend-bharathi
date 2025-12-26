@@ -28,14 +28,14 @@ The system is designed to be incremental, idempotent, and easily deployable, and
 
 ## Project Structure
 - backend-etl-system/
-    |── api/
-    ├── ingestion/
-    ├── schemas/
-    ├── core/
-    ├── tests/
-    ├── docker-compose.yml
-    ├── README.md
-    ├── requirements.txt
+    ─ api/
+    ─ ingestion/
+    ─ schemas/
+    ─ core/
+    ─ tests/
+    ─ docker-compose.yml
+    ─ README.md
+    ─ requirements.txt
 
 ---
 
